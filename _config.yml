@@ -1,0 +1,52 @@
+# Site settings
+title: "STR4T0TT0 | IT Security  Specialist"
+description: "Official website of STR4T0TTO, an IT professional specializing in cybersecurity and cryptocurrency."
+url: "https://str4t0tt0.github.io"
+baseurl: "" # TODO Only for /repo-name
+
+# Author settings
+author:
+  name: "STR4T0TT0"
+  email: "str4t0tt0@proton.me"
+  #twitter_username: "username"  
+  github_username: "st4t0tt0"
+  #linkedin_username: "username"
+
+# Build settings
+markdown: kramdown
+theme: minima # TO DO customize theme
+
+# Permalinks settings
+permalink: /:categories/:year/:month/:day/:title.html
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Custom variables
+email: "str4t0tt0@proton.me"
+linkedin: "https://linkedin.com/in/"
+github: "https://github.com/str4t0tt0"
+twitter: "https://twitter.com/"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Stratotto"
+      comments: true
+
+# GitHub Pages settings
+github:
+  is_project_page: false
