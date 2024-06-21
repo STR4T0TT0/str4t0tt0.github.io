@@ -1,0 +1,175 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body and Font Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background-color: #0d0d0d;
+    color: #e6e6e6;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    background: #1a1a1a;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 3px solid #007bff;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #007bff;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    justify-content: center;
+    background: #121212;
+    padding: 10px;
+    border-bottom: 1px solid #007bff;
+}
+
+nav a {
+    color: #e6e6e6;
+    text-decoration: none;
+    padding: 10px 20px;
+    transition: background 0.3s ease-in-out;
+}
+
+nav a:hover {
+    background: #007bff;
+    color: #fff;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+main h2 {
+    font-size: 2rem;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+main p {
+    margin-bottom: 20px;
+}
+
+/* Buttons */
+button {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+/* Footer */
+footer {
+    background: #1a1a1a;
+    color: #e6e6e6;
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid #007bff;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+/* Cards */
+.card {
+    background: #1a1a1a;
+    border: 1px solid #007bff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card h3 {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.card p {
+    margin-bottom: 10px;
+}
+
+/* Form Styles */
+form {
+    background: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #007bff;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #007bff;
+    background: #0d0d0d;
+    color: #e6e6e6;
+    border-radius: 5px;
+}
+
+form input[type="submit"] {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+form input[type="submit"]:hover {
+    background: #0056b3;
+}
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    main h2 {
+        font-size: 1.5rem;
+    }
+
+    nav a {
+        padding: 10px;
+    }
+}
