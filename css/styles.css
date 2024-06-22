@@ -81,6 +81,21 @@ a:hover {
     color: #77b300;
 }
 
+.tags {
+    font-size: 14px;
+    color: #777;
+}
+
+.tag {
+    display: inline-block;
+    margin-right: 5px;
+    padding: 3px 8px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    font-size: 12px;
+    color: #333;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     header ul {
