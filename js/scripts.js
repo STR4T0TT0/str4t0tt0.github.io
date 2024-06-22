@@ -47,3 +47,4 @@ function displayArticlesByTag(tagName) {
 
 // Example usage: Display articles with the tag 'cybersecurity'
 displayArticlesByTag('cybersecurity');
+displayArticlesByTag('Network');
