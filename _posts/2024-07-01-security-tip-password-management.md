@@ -3,7 +3,9 @@ layout: post
 title: "Breaking the rules : the cautionary tale of an office worker"
 date: 2023-07-01 08:00:00 -0000
 categories: blog
+tags: Intrusion-Prevention Endpoint-Security Identity-Management
 ---
+
 ![Illustrated by our virtual artist, capturing the chaos of cybersecurity gone wrong.](/assets/security-tips-passwords.webp)
 
 In the bustling hive of DeLight Inc., John Smith was your average office worker: unremarkable, unnoticed, and underwhelming. His desk was a monotonous expanse of gray partitions and strewn papers, lit by the pallid glow of a computer screen. But beneath this facade of ordinariness, John harbored a dark secret. He was the office's unchallenged rule-breaker; not of corporate policy, but of password management.

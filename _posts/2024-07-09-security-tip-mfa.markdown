@@ -3,6 +3,7 @@ layout: post
 title:  "The security extra layer your accounts need"
 date:   2024-07-09 08:21:34 +0200
 categories: post
+tags: Intrusion-Prevention Endpoint-Security Application-Security
 ---
 
 ![Illustrated by our virtual artist, MFA stands as a robust defense mechanism.](/assets/alexis-mfa-sectips.webp)
