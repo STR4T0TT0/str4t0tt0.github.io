@@ -1,9 +1,8 @@
 ---
-layout: article_layout
+layout: post
 title: "Breaking the rules : the cautionary tale of an office worker"
 date: 2023-07-01 08:00:00 -0000
-excerpt: "Sectip 1 password management"
-image: /assets/security-tips-passwords.webp
+categories: blog
 tags: Intrusion-Prevention Endpoint-Security Identity-Management
 ---
 

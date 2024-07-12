@@ -1,9 +1,8 @@
 ---
-layout: article_layout
+layout: post
 title: "Why HTTP is a thing of the past ?"
 date: 2023-07-11 08:00:00 -0000
-excerpt: "Network protocol analysis"
-image: /assets/http-vs-https.jpg
+categories: blog
 tags: Network-Security Network-Administration
 ---
 ![Illustrated by our virtual artist, protocole deep dive HTTP vs HTTPs.](/assets/http-vs-https.jpg)

@@ -1,9 +1,8 @@
 ---
-layout: article_layout
+layout: post
 title: "Telnet vs. SSH cheat sheet"
 date: 2023-07-04 08:00:00 -0000
-excerpt: "Network protocol studies"
-image: /assets/cover-ssh-telnet-security-network.jpg
+categories: blog
 tags: SSH System-Administration Server-Management
 ---
 ![Illustrated by our virtual artist, capturing the packets...](/assets/cover-ssh-telnet-security-network.jpg)

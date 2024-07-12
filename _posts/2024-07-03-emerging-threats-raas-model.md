@@ -1,9 +1,8 @@
 ---
-layout: article_layout
+layout: post
 title: "Hacking for hire, a business model"
 date: 2023-07-03 08:00:00 -0000
-excerpt: "Case studies 1"
-image: /assets/alexis-cybersecurity-raas.webp
+categories: blog
 tags: Cyber-Attack-Case-Studies Threat-Intelligence Ransomware
 ---
 ![Illustrated by our virtual artist, the contrast between the origins and impacts of ransomware attacks.](/assets/alexis-cybersecurity-raas.webp)
