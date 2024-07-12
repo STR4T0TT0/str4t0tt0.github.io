@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: about_layout
 title: About
 permalink: /about/
----
-
+---  
+    
 ## A continuously learning professional
 
 I am an IT infrastructure manager and a lifelong learner with an insatiable curiosity for technology.  I thrive on tackling complex challenges and consistently getting things done, ensuring that security and efficiency go hand in hand. If you're looking for someone who combines expertise with a relentless drive to excel, you're in the right place. Let's secure our future together!

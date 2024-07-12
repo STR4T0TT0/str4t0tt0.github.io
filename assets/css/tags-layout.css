@@ -1,0 +1,85 @@
+/* SHOW SKILLS SPECIFIC */
+
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+/* Add padding on the left for the entire tree view */
+.main-skill {
+  padding-left: 20px; 
+}
+
+h2, h3 {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+/* Space between fa-tags title */
+h2 i {
+  margin-right: 8px; 
+}
+
+h3 {
+  font-size: 1.2em;
+  margin-left: 20px;
+}
+
+/*h2::before, if needed because too much skills to display
+the rest of the CSS is ready, just modify the JS*/
+h3::before {
+  content: '\f078'; /* FontAwesome down arrow */
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  display: inline-block;
+  margin-right: 10px;
+  transition: transform 0.3s ease; /* Smooth transition for rotation */
+}
+
+h2.open::before, h3.open::before {
+  transform: rotate(90deg); /* Rotate icon when open */
+}
+
+ul {
+  list-style: none;
+  padding-left: 40px;
+  margin: 0 0 10px 0;
+  /**border-left: 2px solid #ddd; **/
+}
+
+ul li {
+  margin: 5px 0;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #34a1dc;
+  display: flex;
+  align-items: center;
+}
+
+ul li a i {
+  margin-right: 10px;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Tree view toggling */
+.tags ul {
+  display: none; /* Hidden by default */
+}
+
+.tags h3.open + ul {
+  display: block; /* Show when open */
+}

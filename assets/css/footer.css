@@ -1,0 +1,43 @@
+/* FOOTER  */
+.site-footer {
+  background-color: #f0f0f0;
+  color: #000;
+  padding: 1em;
+  width: 100%;
+  /*position: fixed; debugalex*/
+  bottom: 0;
+  left: 0;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.footer-left {
+  margin-left: 20px; 
+}
+
+.footer-right {
+  margin-right: 50px; 
+}
+
+.footer-content a {
+  color: #000; 
+  text-decoration: none;
+  padding: 5px 10px; 
+  border-radius: 5px; 
+  transition: background-color 0.3s, color 0.3s; 
+}
+
+.footer-content a:hover {
+  background-color: #575757; 
+  color: #fff; 
+}
+
+.footer-content a:active {
+  background-color: #000; 
+  color: #fff; 
+}

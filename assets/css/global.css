@@ -1,0 +1,29 @@
+/* GENERAL SETTINGS */
+body {
+  font-family: 'Helvetica', sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.content {
+  padding-left: 10px; /* left margin of the content */
+  padding-top: 65px; /* To adjust on nav bar's height */
+  /*padding-bottom: 0px; debug adjust on footer's height */
+}
+
+.content-layout {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
