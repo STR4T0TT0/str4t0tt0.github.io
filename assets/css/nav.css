@@ -1,7 +1,7 @@
 /* NAVIGATION */
 
 .site-nav {
-  position: fixed;
+  /* position: fixed; debug */
   top: 0;
     left:0;
   width: 100%;
