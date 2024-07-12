@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: article_layout
 title:  "The security extra layer your accounts need"
 date:   2024-07-09 08:21:34 +0200
-categories: post
+excerpt: "Sectip 2 second factor"
+image: /assets/alexis-mfa-sectips.webp
 tags: Intrusion-Prevention Endpoint-Security Application-Security
 ---
 

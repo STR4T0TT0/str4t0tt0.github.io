@@ -27,3 +27,116 @@ html, body {
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+.content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* YOU WILL BE A HERO */
+
+/* Hero Section */
+.hero-section {
+  background: url('/assets/images/main/noob-hero.webp') no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* Align items to the bottom */
+  align-items: center;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  position: re
+}
+
+.hero-content {
+  max-width: 600px;
+  text-align: center;
+  margin-bottom: 10%; /* Position the hero content in the lower quarter */
+  position: absolute;
+  bottom: -5%; /* Position from bottom */
+  left: 50%;
+  transform: translateX(-50%); /* Center horizontally */
+}
+
+.hero-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+     text-decoration: none;
+  background-color: #34a1dc;
+  color: white;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.hero-button:hover {
+ background-color: #3485dc;
+    text-decoration: none;
+   
+}
+
+/* CAROUSELL */
+
+.featured-articles {
+  padding: 40px 20px;
+  background-color: white;
+  text-align: center;
+}
+
+.featured-articles h2 {
+  margin-bottom: 20px;
+}
+
+.carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.carousel-images {
+  display: flex;
+  overflow: hidden;
+  width: 100%;
+}
+
+.carousel-item {
+  min-width: 100%;
+  transition: transform 0.5s ease;
+}
+
+.carousel-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.carousel-button {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+  padding: 20px; /* Increase padding for larger buttons */
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2em; /* Increase font size for larger buttons */
+  z-index: 10;
+}
+
+.carousel-button.prev {
+  left: 10px;
+}
+
+.carousel-button.next {
+  right: 10px;
+}
+
+.article-card h3 {
+  margin: 10px 0;
+}
+

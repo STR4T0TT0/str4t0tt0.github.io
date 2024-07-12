@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: article_layout
 title: "Industries at risk! Mitigating critical flaws in Rockwell PanelView™ "
 date: 2023-07-10 08:00:00 -0000
-categories: blog
+excerpt: "Threat analysis"
+image: /assets/alexis-rockwell-panel-breaches.webp
 tags: Manufacturing-Security IT-Infrastructure Threat-Intelligence
 ---
 ![Illustrated by our virtual artist, vulnerabilities exploited by remote attackers executing arbitrary code.](/assets/alexis-rockwell-panel-breaches.webp)
