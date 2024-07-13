@@ -8,7 +8,7 @@ tags: Intrusion-Prevention Endpoint-Security Application-Security
 
 ![Illustrated by our virtual artist, MFA stands as a robust defense mechanism.](/assets/alexis-mfa-sectips.webp)
 
-In today's world, technology is a big part of our lives... From banking to social media, our personal and professional information resides in the cloud, protected by passwords. But as the old adage goes, “a chain is only as strong as its weakest link,” and passwords alone have become that weak link.
+In today's world, technology is a big part of our lives... From banking to social media, our personal and professional information resides in the cloud, protected by passwords. But as the old adage goes, “a chain is only as strong as its weakest link,” and passwords alone have become that weak link.<!--more-->
 
 Meet Michel Fishblocker, a diligent IT manager at a mid-sized tech company. Michel was meticulous about security protocols, regularly updating passwords, and ensuring the team adhered to best practices. However, as cyber threats evolved, Michel knew that relying solely on passwords was like to locking a door with a flimsy chain.
 

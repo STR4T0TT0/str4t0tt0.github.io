@@ -7,7 +7,7 @@ tags: Manufacturing-Security IT-Infrastructure Threat-Intelligence
 ---
 ![Illustrated by our virtual artist, vulnerabilities exploited by remote attackers executing arbitrary code.](/assets/alexis-rockwell-panel-breaches.webp)
 
-Recently, Microsoft revealed two significant security flaws in the Rockwell Automation PanelView Plus systems. These vulnerabilities could be exploited by remote, unauthenticated attackers to execute arbitrary code and trigger a denial-of-service (DoS) condition. 
+Recently, Microsoft revealed two significant security flaws in the Rockwell Automation PanelView Plus systems. These vulnerabilities could be exploited by remote, unauthenticated attackers to execute arbitrary code and trigger a denial-of-service (DoS) condition. <!--more-->
 
 ## What are we writing about?
 
