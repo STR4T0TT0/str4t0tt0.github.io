@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article_layout
 title: "Breaking the rules : the cautionary tale of an office worker"
 date: 2023-07-01 08:00:00 -0000
 categories: blog
@@ -8,7 +8,7 @@ tags: Intrusion-Prevention Endpoint-Security Identity-Management
 
 ![Illustrated by our virtual artist, capturing the chaos of cybersecurity gone wrong.](/assets/security-tips-passwords.webp)
 
-In the bustling hive of DeLight Inc., John Smith was your average office worker: unremarkable, unnoticed, and underwhelming. His desk was a monotonous expanse of gray partitions and strewn papers, lit by the pallid glow of a computer screen. But beneath this facade of ordinariness, John harbored a dark secret. He was the office's unchallenged rule-breaker; not of corporate policy, but of password management.
+In the bustling hive of DeLight Inc., John Smith was your average office worker: unremarkable, unnoticed, and underwhelming. His desk was a monotonous expanse of gray partitions and strewn papers, lit by the pallid glow of a computer screen. But beneath this facade of ordinariness, John harbored a dark secret. He was the office's unchallenged rule-breaker; not of corporate policy, but of password management.<!--more-->
 John's password practices read like a litany of every cybersecurity misstep imaginable:
 - Reuse galore: 'johnsmith123' was the skeleton key to his digital kingdom! Emails, social media, banking, and work accounts all shared this little gem.
 Simplicity is key: corporate life can be complicated enough, so let’s KISS : for sites requiring a "complex" password, like his corporate credentials 'John1234!' was his go-to variation.

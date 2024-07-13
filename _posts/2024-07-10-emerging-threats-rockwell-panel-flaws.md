@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article_layout
 title: "Industries at risk! Mitigating critical flaws in Rockwell PanelView™ "
 date: 2023-07-10 08:00:00 -0000
 categories: blog

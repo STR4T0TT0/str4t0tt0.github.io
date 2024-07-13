@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article_layout
 title: "Telnet vs. SSH cheat sheet"
 date: 2023-07-04 08:00:00 -0000
 categories: blog

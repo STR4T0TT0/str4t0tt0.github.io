@@ -2,6 +2,7 @@
 document.addEventListener("DOMContentLoaded", function() {
   // Initially collapse all lists
   const allTags = document.querySelectorAll('.tags ul');
+  // es6 version const allTags = document.querySelectorAll('.tags ul');
   allTags.forEach(ul => {
     ul.style.display = 'none';
   });

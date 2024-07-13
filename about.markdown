@@ -1,7 +1,7 @@
 ---
 layout: about_layout
 title: About
-permalink: /about/
+permalink: /about
 ---  
     
 ## A continuously learning professional

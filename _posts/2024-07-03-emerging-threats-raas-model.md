@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article_layout
 title: "Hacking for hire, a business model"
 date: 2023-07-03 08:00:00 -0000
 categories: blog
