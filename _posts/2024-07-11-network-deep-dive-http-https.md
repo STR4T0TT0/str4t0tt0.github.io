@@ -14,7 +14,7 @@ tags: Network-Security Network-Administration
 - **Definition**: HTTP is a protocol used for transmitting hypertext over the web. It is the foundation of data communication for the World Wide Web.
 - **Purpose**: To retrieve and present web pages.
 - **Key Features**: Stateless, plain text transmission, uses port 80 by default.
-- **Typical Use Cases**: Serving web pages, retrieving images, videos, and other web resources.
+- **Typical Use Cases**: Serving web pages, retrieving images, videos, and other web resources.<!--more-->
 
 
 ![HTTPS and HTTP a side-by-side comparison of the definitions, purposes, and key features.](/assets/side-by-side-https.png)
