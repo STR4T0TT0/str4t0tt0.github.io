@@ -4,7 +4,7 @@ title: Topics
 permalink: /tags/
 ---
 
-{% assign topic_technical_tags = "Ransomware,Intrusion-Prevention,Endpoint-Security,Application Security,Network-Security" | split: "," %}
+{% assign topic_technical_tags = "Ransomware,Intrusion-Prevention,Endpoint-Security,Application-Security,Network-Security" | split: "," %}
 {% assign topic_job_skills_tags = "Identity-Management,System-Administration,Server-Management,IT-Infrastructure,Network-Administration" | split: "," %}
 {% assign topic_trends_tags = "Threat-Intelligence" | split: "," %}
 {% assign topic_studies_tags = "Cyber-Attack-Case-Studies,Manufacturing-Security" | split: "," %}
@@ -12,7 +12,7 @@ permalink: /tags/
 
 <div class="content-layout">  
 <div class="main-skill">
-<h2><i class="fas fa-tags"> </i>Technical Tags</h2>
+<h2><i class="fas fa-tags"> </i>Technical skills</h2>
     <div class="tags">
 {% for tag in topic_technical_tags %}
   <h3>{{ tag | capitalize }}</h3>
@@ -42,7 +42,7 @@ permalink: /tags/
 </div>
 
 <div class="main-skill">
-<h2><i class="fas fa-tags"></i>Tools and Technologies</h2>
+<h2><i class="fas fa-tags"></i>Tools</h2>
     <div class="tags">
 {% for tag in topic_tools_tags %}
   <h3>{{ tag | capitalize }}</h3>

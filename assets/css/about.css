@@ -1,0 +1,32 @@
+.about-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+        }
+.profile-pic {
+    flex: 1;
+    text-align: center;
+}
+.profile-pic img {
+    border-radius: 50%;
+    max-width: 150px;
+}
+.about-content {
+    flex: 3;
+    padding: 0 20px;
+}
+.resume-columns {
+    display: flex;
+    justify-content: space-between;
+}
+.column {
+    flex: 1;
+    padding: 0 20px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 10px;
+}
