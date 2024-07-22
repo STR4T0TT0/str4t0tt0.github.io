@@ -5,7 +5,7 @@ date: 2023-07-15 08:00:00 -0000
 categories: post
 tags: Intrusion-Prevention Endpoint-Security Application-Security
 ---
-![Illustrated by our virtual artist, ane Smith and Jack Krekr examining the old computer, the shadowy hacker $h4d0w lurking in the background.](/assets/images/articles/infosec/security-tips-regular-updates.webp)
+![Illustrated by our virtual artist, Jane Smith and Jack Krekr examining the old computer, the shadowy hacker $h4d0w lurking in the background.](/assets/images/articles/infosec/security-tips-regular-updates.webp)
 
 
 In the dimly lit room of an old, brick-walled basement, a collection of outdated technology lined the shelves. A rotary phone, a typewriter, and a bulky VHS player were among the relics of a bygone era. Each object, covered in a thin layer of dust, whispered stories of the past to anyone willing to listen. These old tech objects, once cutting-edge, now seemed quaint and obsolete. But within their silent narratives lay lessons of great importance for the modern world, particularly in the cybersecurity domain.<!--more-->
