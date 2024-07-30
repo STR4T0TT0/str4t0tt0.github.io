@@ -3,7 +3,7 @@ layout: article_layout
 title: "Beware of whaling!"
 date: 2024-07-26 08:00:00 -0000
 categories: post
-tags: Intrusion-Prevention Endpoint-Security Identity-Management
+tags: Intrusion-Prevention Endpoint-Security Identity-Management 
 ---
 ![Illustrated by our virtual artist, todo.](/assets/images/articles/infosec/security-tips-phishing.webp)
 

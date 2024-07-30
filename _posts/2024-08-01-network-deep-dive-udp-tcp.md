@@ -1,15 +1,16 @@
 ---
 layout: article_layout
 title: "UDP vs TCP Protocols"
-date: 2024-08-1 08:00:00 -0000
+date: 2024-07-30 07:59:40 -0000
 categories: post
 tags: Network-Security Network-Administration
 ---
+
 ![Illustrated by our virtual artist, I can tell you a joke about UDP but you might not get it.](/assets/images/articles/knowledge/udp-joke-cybersecurity.webp)
 
 ### What are the differences between UDP and TCP protocols?
 
-Understanding the fundamental protocols that govern data transmission is essential for networking security. Two of the most commonly used protocols are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP). Both protocols operate at the transport layer of the Internet Protocol (IP). From a security perspective, I analyze how data is transmitted across networks and the key differences between TCP and UDP.<!--more-->
+Understanding the fundamental protocols that govern data transmission is essential for networking security. Two of the most commonly used protocols are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP). <!--more-->Both protocols operate at the transport layer of the Internet Protocol (IP). From a security perspective, I analyze how data is transmitted across networks and the key differences between TCP and UDP.
 
 ### Let's start with the basics
 
