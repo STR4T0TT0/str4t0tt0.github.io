@@ -12,7 +12,7 @@ In this project, I conducted a comprehensive security audit for compliance with 
 
 - [Audit a fictional business](/projects/security-audit/)
 
-## **2. Hands-On Cybersecurity Exercises: Mastering Key Techniques**
+## **2. Hands-on cybersecurity exercises**
 
 I've engaged in a variety of hands-on exercises to deepen my understanding of cybersecurity principles and techniques. Each of these exercises will  be crucial for me in building a well-rounded cybersecurity skills for real-world challenges.
 
