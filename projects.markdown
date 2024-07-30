@@ -8,7 +8,7 @@ Welcome to my projects section! This website showcases some of the practical pro
 
 ## **1. Auditing a fictional business**
 
-In this project, I conducted a comprehensive security audit for compliance with Botium standards for a fictional business. The goal was to write a recommendation about how to improve the organization’s security posture. The final document must provide a list of risks and compliance requirements that need to be addressed.
+In this project, I conducted a comprehensive security audit / compliance for a fictional business "Botium Toys". The goal was to write a recommendation about how to improve the organization’s security posture. The final document must provide a list of risks and compliance requirements that need to be addressed.
 
 - [Audit a fictional business](/projects/security-audit/)
 
