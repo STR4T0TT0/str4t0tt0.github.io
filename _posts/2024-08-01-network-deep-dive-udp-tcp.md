@@ -67,7 +67,7 @@ UDP does not have built-in flow control or congestion control. This can lead to 
 
 Both protocols have their own vulnerabilities and challenges that require attention.
 
-#### 1. **Security issues for TCP **
+#### 1. **Security issues for TCP**
 
 **TCP SYN flood:** the three-way handshake in TCP can be exploited in a type of denial-of-service (DoS) attack known as a SYN flood. In this attack, an attacker sends a large number of SYN requests to a server without completing the handshake, causing the server to allocate resources for half-open connections. This can overwhelm the server, leading to service disruption.
 
