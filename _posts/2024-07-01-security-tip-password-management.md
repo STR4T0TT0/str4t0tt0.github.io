@@ -1,7 +1,7 @@
 ---
 layout: article_layout
 title: "Breaking the rules : the cautionary tale of an office worker"
-date: 2023-07-01 08:00:00 -0000
+date: 2024-07-01 08:00:00 -0000
 categories: post
 tags: Intrusion-Prevention Endpoint-Security Identity-Management
 ---

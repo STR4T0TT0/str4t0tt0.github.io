@@ -1,7 +1,7 @@
 ---
 layout: article_layout
 title: "Hacking for hire, a business model"
-date: 2023-07-03 08:00:00 -0000
+date: 2024-07-03 08:00:00 -0000
 categories: post
 tags: Cyber-Attack-Case-Studies Threat-Intelligence Ransomware
 ---

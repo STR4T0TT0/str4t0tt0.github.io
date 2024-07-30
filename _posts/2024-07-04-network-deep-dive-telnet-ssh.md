@@ -1,7 +1,7 @@
 ---
 layout: article_layout
 title: "Telnet vs. SSH cheat sheet"
-date: 2023-07-04 08:00:00 -0000
+date: 2024-07-04 08:00:00 -0000
 categories: post
 tags: SSH System-Administration Server-Management
 ---

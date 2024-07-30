@@ -1,7 +1,7 @@
 ---
 layout: article_layout
 title: "Why HTTP is a thing of the past ?"
-date: 2023-07-11 08:00:00 -0000
+date: 2024-07-11 08:00:00 -0000
 categories: post
 tags: Network-Security Network-Administration
 ---

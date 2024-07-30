@@ -1,7 +1,7 @@
 ---
 layout: article_layout
 title: "Industries at risk! Mitigating critical flaws in Rockwell PanelView™ "
-date: 2023-07-10 08:00:00 -0000
+date: 2024-07-10 08:00:00 -0000
 categories: post
 tags: Manufacturing-Security IT-Infrastructure Threat-Intelligence
 ---
