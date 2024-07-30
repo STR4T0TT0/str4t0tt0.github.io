@@ -12,6 +12,8 @@ permalink: /tags/
 
 <div class="content-layout">  
 <div class="main-skill">
+    <p>My publications are grouped by my personal skills on this page. Whether you're looking for the latest trends, practical tips, or case studies, I hope you'll find valuable insights here. I aim to provide practical guidance on how to secure our digital assets. Click on the arrow icon to display the articles related to skills.</p>
+
 <h2><i class="fas fa-tags"> </i>Technical skills</h2>
     <div class="tags">
 {% for tag in topic_technical_tags %}
