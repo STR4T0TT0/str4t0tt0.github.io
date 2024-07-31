@@ -24,7 +24,7 @@ One of the primary differences between TCP and UDP is their approach to connecti
 
 UDP, in contrast, is connectionless. It does not establish a dedicated end-to-end connection before data transmission. This means that datagrams are sent without any prior agreement between the sender and receiver, making UDP faster but less reliable.
 
-#### 2. **Reliability and rrror checking**
+#### 2. **Reliability and error checking**
 
 TCP is designed for reliability. It includes mechanisms for error checking and correction, ensuring that data is transmitted accurately. If any packets are lost or corrupted during transmission, TCP will retransmit them. Additionally, TCP guarantees that data will arrive in the correct order, even if the packets are received out of sequence.
 
