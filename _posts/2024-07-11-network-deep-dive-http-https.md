@@ -2,6 +2,8 @@
 layout: article_layout
 title: "Why HTTP is a thing of the past ?"
 date: 2024-07-11 08:00:00 -0000
+image: "/assets/http-vs-https.jpg"
+excerpt: "What are the difference between HTTP and HTTPS ? The S is not silence."
 categories: post
 tags: Network-Security Network-Administration
 ---

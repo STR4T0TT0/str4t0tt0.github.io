@@ -2,6 +2,8 @@
 layout: article_layout
 title:  "The security extra layer your accounts need"
 date:   2024-07-09 08:21:34 +0200
+image: "/assets/alexis-mfa-sectips.webp"
+excerpt: "A fiction story to raise awareness about our behaviors. In what ways can you help prevent cyberattacks?"
 categories: post
 tags: Intrusion-Prevention Endpoint-Security Application-Security
 ---

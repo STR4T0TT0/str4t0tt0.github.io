@@ -2,6 +2,8 @@
 layout: article_layout
 title: "Beware of whaling!"
 date: 2024-07-26 08:00:00 -0000
+image: "/assets/images/articles/infosec/security-tips-phishing.webp"
+excerpt: "A fiction story to raise awareness about our behaviors. In what ways can you help prevent cyberattacks?"
 categories: post
 tags: Intrusion-Prevention Endpoint-Security Identity-Management 
 ---

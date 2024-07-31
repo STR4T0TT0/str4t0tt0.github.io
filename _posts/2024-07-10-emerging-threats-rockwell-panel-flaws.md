@@ -2,12 +2,14 @@
 layout: article_layout
 title: "Industries at risk! Mitigating critical flaws in Rockwell PanelView™ "
 date: 2024-07-10 08:00:00 -0000
+image: "/assets/PanelView-Plus6-family.1920.webp"
+excerpt: "Recently, Microsoft revealed two significant security flaws in the Rockwell Automation PanelView Plus systems. Why these flaws can be critical ?"
 categories: post
 tags: Manufacturing-Security IT-Infrastructure Threat-Intelligence
 ---
 ![Illustrated by our virtual artist, vulnerabilities exploited by remote attackers executing arbitrary code.](/assets/alexis-rockwell-panel-breaches.webp)
 
-Recently, Microsoft revealed two significant security flaws in the Rockwell Automation PanelView Plus systems. These vulnerabilities could be exploited by remote, unauthenticated attackers to execute arbitrary code and trigger a denial-of-service (DoS) condition. <!--more-->
+Recently, Microsoft revealed two significant security flaws in the Rockwell Automation PanelView Plus systems. These vulnerabilities could be exploited by remote, unauthenticated attackers to execute arbitrary code and trigger a denial-of-service (DoS) condition. 
 
 ## What are we writing about?
 

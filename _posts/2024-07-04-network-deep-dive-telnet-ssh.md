@@ -2,6 +2,8 @@
 layout: article_layout
 title: "Telnet vs. SSH cheat sheet"
 date: 2024-07-04 08:00:00 -0000
+image: "/assets/telnet-ssh-cheat-sheet.png"
+excerpt: "Understand why Telnet is becoming obsolete, but why it can still be useful to know about its existence for specific cases."
 categories: post
 tags: SSH System-Administration Server-Management
 ---

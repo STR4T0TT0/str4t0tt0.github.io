@@ -2,6 +2,8 @@
 layout: article_layout
 title: "Breaking the rules : the cautionary tale of an office worker"
 date: 2024-07-01 08:00:00 -0000
+image: "/assets/security-tips-passwords.webp"
+excerpt: "A fiction story to raise awareness about our behaviors. In what ways can you help prevent cyberattacks?"
 categories: post
 tags: Intrusion-Prevention Endpoint-Security Identity-Management
 ---

@@ -2,6 +2,8 @@
 layout: article_layout
 title: "Hacking for hire, a business model"
 date: 2024-07-03 08:00:00 -0000
+image: "/assets/alexis-cybersecurity-raas.webp"
+excerpt: "This business model enables cybercriminals to lease ransomware tools and infrastructure. The issue ? It makes it possible for even less technically skilled individuals to carry out devastating attacks."
 categories: post
 tags: Cyber-Attack-Case-Studies Threat-Intelligence Ransomware
 ---
