@@ -1,8 +1,8 @@
 # From n00b to cyber Ninja
 
-Welcome to my cybersecurity blog! This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). It features my latest work, insights, and tutorials on security topics.
+Welcome to my cybersecurity blog! This blog is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). It features my latest work, insights, and tutorials on IT security topics.
 
-## Table of Contents
+## Table of contents
 
 - [About](#about)
 - [Features](#features)
@@ -16,6 +16,7 @@ This blog aims to provide valuable content related to cybersecurity, including:
 - Intrusion detection
 - Network security
 - Cyber threat analysis
+- Compliance insight
 - Best practices for protecting your digital assets
 
 ## Features

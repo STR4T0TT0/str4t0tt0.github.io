@@ -6,7 +6,6 @@ permalink: /
 
 I would like to welcome you to my cybersecurity blog. Dive into a world where every byte counts and every click matters. As a dedicated learner in the vast field of cybersecurity, I share my discoveries, insights, and the occasional epic fail; hey, learning curves! Whether you're a fellow newbie or a seasoned pro looking for fresh perspectives, join me on this adventure. Let's level up our knowledge together! Start reading my latest articles now!
 
-<div class="spacer"> </div>
 <div id="postCarousel" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     {% for post in site.posts limit:5 %}
@@ -29,4 +28,3 @@ I would like to welcome you to my cybersecurity blog. Dive into a world where ev
     <span class="sr-only">Next</span>
   </a>
 </div>
-<div class="spacer"></div>
