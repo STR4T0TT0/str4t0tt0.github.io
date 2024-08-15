@@ -7,7 +7,7 @@ excerpt: "Understanding the differences between FTP (File Transfer Protocol) and
 categories: post
 tags: Network-Security Network-Administration
 ---
-![Illustrated by our virtual artist, a detailed illustration comparing FTP and SFTP protocols. The left side depicts an FTP setup showing unencrypted data transfer with separate channels for commands (port 21) and data (port 20). Includes firewalls with multiple open ports. The right side illustrates an SFTP setup with encrypted data transfer over a single channel (port 22) using a secure shell tunnel, highlighting SSH key-based authentication. Arrows and labels in accent color clearly distinguish the data flows and security features, emphasizing ease of firewall configuration and enhanced cybersecurity measures. ](/assets/images/articles/knowledge/definition-use-ftp-sftp.webp)
+![Illustrated by our virtual artist, the global IPv6 adoption map as of 2024, showing varying adoption rates by country. France and Germany are highlighted in green for high adoption, while regions like Africa and the Caribbean are marked in red for low adoption. The map illustrates the uneven global progress in transitioning from IPv4 to IPv6. ](/assets/images/articles/knowledge/definition-use-ftp-sftp.webp)
 
 ## Comprehensive comparison between FTP and SFTP
 
@@ -184,6 +184,6 @@ FTPS, while adding encryption, follows the same mode structures, emphasizing the
 
 ### <i class="fa-solid fa-book-open-reader"></i> Further readings
 
-- [Slacksite. "Active FTP vs. Passive FTP, a Definitive Explanation," 2024.](http://slacksite.com/other/ftp.html)
+- [Slacksite. "Active FTP vs. Passive FTP, a Definitive Explanation." 2024.](http://slacksite.com/other/ftp.html)
 - [Stack Overflow. "What is the difference between active and passive FTP?" 2024.](https://stackoverflow.com/questions/1699145/what-is-the-difference-between-active-and-passive-ftp)
 - [SecurityWing. "Active vs Passive FTP Mode: Which One is More Secure?" 2024.](https://www.securitywing.com/active-vs-passive-ftp-mode-which-one-is-more-secure)

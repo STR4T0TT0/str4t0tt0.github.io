@@ -142,3 +142,50 @@ blockquote footer {
 blockquote footer:before {
   content: "— ";
 }
+
+/* TABLES OF CONTENTS */
+
+.toc-container {
+    background-color: #f0f0f0;
+    padding: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: inline-block; /* up as much width as needed */
+    border-radius: 5px; /*  slight rounding */
+    margin-bottom: 20px; /* space below  */
+}
+
+.toc-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.toc-header i {
+    margin-right: 8px;
+}
+
+.toc-links {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.toc-links li {
+    margin: 5px 0;
+}
+
+.toc-links li i {
+    margin-right: 6px;
+    color: #6c757d;
+}
+
+.toc-links li a {
+    text-decoration: underline;
+    color: #34a1dc;
+    font-size: 1rem;
+}
+
+.toc-links li a:hover {
+    color: #3485dc;
+}

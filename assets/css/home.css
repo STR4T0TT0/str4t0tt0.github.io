@@ -14,3 +14,15 @@
 .spacer-large {
   margin-bottom: 65px;
 }
+
+.btn-primary {
+    color: white;
+    background-color: #34a1dc;
+    border-color: #34a1dc;
+}
+
+.btn-primary:hover {
+    color: white;
+    background-color: #3485dc;
+    border-color: #3485dc;
+}
