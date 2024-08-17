@@ -4,11 +4,12 @@ title: Topics
 permalink: /tags/
 ---
 
+{% assign topic_transferable_tags = "Strategic-Planning,Vendor-Management" | split: "," %}
 {% assign topic_technical_tags = "Ransomware,Intrusion-Prevention,Endpoint-Security,Application-Security,Network-Security" | split: "," %}
 {% assign topic_compliance_tags = "DPA,NIST-AI-RMF,Executive-Order-14110,NAIRR" | split: "," %}
 {% assign topic_job_skills_tags = "Identity-Management,System-Administration,Server-Management,IT-Infrastructure,Network-Administration" | split: "," %}
 {% assign topic_trends_tags = "Threat-Intelligence" | split: "," %}
-{% assign topic_studies_tags = "Cyber-Attack-Case-Studies,Manufacturing-Security" | split: "," %}
+{% assign topic_studies_tags = "Cyber-Attack-Case-Studies,Manufacturing-Security,Industry-Best-Practices" | split: "," %}
 {% assign topic_tools_tags = "SSH" | split: "," %}
 
 <div class="content-layout">  
@@ -30,9 +31,23 @@ permalink: /tags/
 </div>
 
 <div class="main-skill">
-    <h2><i class="fas fa-tags"></i>Job Skills</h2>
+    <h2><i class="fas fa-tags"></i>Job skills</h2>
     <div class="tags">
 {% for tag in topic_job_skills_tags %}
+  <h3>{{ tag | capitalize }}</h3>
+  <ul>
+    {% assign tag_posts = site.tags[tag] %}
+    {% for post in tag_posts %}
+      <li><a href="{{ post.url }}"><i class="far fa-file-alt"></i>{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+    </div>
+    
+</div><div class="main-skill">
+    <h2><i class="fas fa-tags"></i>Transferable skills</h2>
+    <div class="tags">
+{% for tag in topic_transferable_tags %}
   <h3>{{ tag | capitalize }}</h3>
   <ul>
     {% assign tag_posts = site.tags[tag] %}
